@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/aryan/vlsi_lab/experiment_3/experiment_3.srcs/sources_1/new/CLA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CLA
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/aryan/vlsi_lab/experiment_3/experiment_3.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench

@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Thu Feb 16 12:10:05 2023
+# Process ID: 115532
+# Current directory: /home/aryan/vlsi_lab/experiment_3/experiment_3.runs/synth_1
+# Command line: vivado -log CLA.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source CLA.tcl
+# Log file: /home/aryan/vlsi_lab/experiment_3/experiment_3.runs/synth_1/CLA.vds
+# Journal file: /home/aryan/vlsi_lab/experiment_3/experiment_3.runs/synth_1/vivado.jou
+# Running On: aryan, OS: Linux, CPU Frequency: 1400.000 MHz, CPU Physical cores: 8, Host memory: 16575 MB
+#-----------------------------------------------------------
+source CLA.tcl -notrace

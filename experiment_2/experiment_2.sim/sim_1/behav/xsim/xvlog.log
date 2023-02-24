@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/aryan/vlsi_lab/experiment_2/experiment_2.srcs/sources_1/new/bcd2binary.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bcd2binary
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/aryan/vlsi_lab/experiment_2/experiment_2.srcs/sim_1/new/test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/aryan/vlsi_lab/experiment_2/experiment_2.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

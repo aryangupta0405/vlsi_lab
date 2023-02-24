@@ -1,0 +1,24 @@
+Time resolution is 1 ps
+                   0 bcd 00000000 binary 0000
+                   1 bcd 00000001 binary 0001
+                   2 bcd 00000010 binary 0010
+                   3 bcd 00000011 binary 0011
+                   4 bcd 00000100 binary 0100
+                   5 bcd 00000101 binary 0101
+                   6 bcd 00000110 binary 0110
+                   7 bcd 00000111 binary 0111
+                   8 bcd 00001000 binary 1000
+                   9 bcd 00001001 binary 1001
+                  10 bcd 00001010 binary xxxx
+                  11 bcd 00001011 binary xxxx
+                  12 bcd 00001100 binary xxxx
+                  13 bcd 00001101 binary xxxx
+                  14 bcd 00001110 binary xxxx
+                  15 bcd 00001111 binary xxxx
+                  16 bcd 00010000 binary 1010
+                  17 bcd 00010001 binary 1011
+                  18 bcd 00010010 binary 1100
+                  19 bcd 00010011 binary 1101
+                  20 bcd 00010100 binary 1110
+                  21 bcd 00010101 binary 1111
+$stop called at time : 22 ns : File "/home/aryan/vlsi_lab/experiment_2/experiment_2.srcs/sim_1/new/test.v" Line 20
